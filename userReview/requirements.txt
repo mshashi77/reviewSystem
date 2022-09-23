@@ -81,7 +81,7 @@ pluggy==0.13.0
 ply==3.11
 premailer==3.2.0
 prompt-toolkit==3.0.4
-protobuf==3.11.3
+protobuf==3.18.3
 psycopg2==2.8.4
 psycopg2-binary==2.8.4
 ptyprocess==0.6.0
